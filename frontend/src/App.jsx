@@ -10,7 +10,7 @@ import RegisterPage from './pages/RegisterPage.jsx';
 import AdminEventsPage from './pages/AdminEventsPage.jsx';
 import ProtectedRoute from './components/layout/ProtectedRoute.jsx';
 import ChatBot from './components/common/ChatBot.jsx';
-
+//changed here
 const App = () => {
   return (
     <div className="min-h-screen">
